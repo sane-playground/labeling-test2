@@ -1,0 +1,33 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "New Threat Model - git",
+    "owner": "Sri",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "sai"
+      },
+      {
+        "name": "pavan"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "sinan",
+    "threatTop": 0
+  }
+}
